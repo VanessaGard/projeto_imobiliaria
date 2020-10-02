@@ -1,7 +1,7 @@
 # projeto_imobiliaria
 Sistema de cadastramento de residenciais para aluguel/compra
 |Nome do campo       |Tipo                  |Descrição                                                                  |
-|--------------------|----------------------|---------------------------------------------------------------------------|
+|---------------|------------|---------------|
 | nome_prop          | Cadeia de caracteres | Nome do proprietário da casa ou apartamento                               |
 | venda_alug         | Cadeia de caracteres | Esclarecer se é venda ou aluguel do imóvel                                |
 | casa_apto          | Cadeia de caracteres | Esclarecer se é casa ou apartamento                                       |
